@@ -18,3 +18,27 @@
 .Smalltext{
     font-size: smaller;  
 }
+
+.centerText{
+    text-align: center;
+}
+
+.boldText{
+    font-weight: bolder;
+}
+
+.changeFont{
+    font-family: fantasy;
+}
+
+.bob{
+    color: orange;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.styledFont{
+    font-family: monospace;
+    font-size: larger;
+    
+}
