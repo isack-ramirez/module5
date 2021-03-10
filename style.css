@@ -40,5 +40,11 @@
 .styledFont{
     font-family: monospace;
     font-size: larger;
-    
+
+}
+
+#styledImage{
+    border: blue;
+    border-width: 25px;
+    border-style: dashed;
 }
