@@ -6,3 +6,15 @@
 .bluetext {
     color:blue;
 }
+
+.greentext{
+    color: green;
+}
+
+.bigtext{
+    font-size: x-large;
+}
+
+.Smalltext{
+    font-size: smaller;  
+}
